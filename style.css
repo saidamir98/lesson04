@@ -1,0 +1,20 @@
+h1 {
+    color: brown;
+}
+p {
+   background-color: blue; 
+   color: red; font-size: 30px;
+}
+
+div {
+    border: 2px solid red
+}
+
+#id1 {
+    border: 5px solid green;
+    background-color: blueviolet;
+}
+
+.img {
+    width: 50%;
+}
